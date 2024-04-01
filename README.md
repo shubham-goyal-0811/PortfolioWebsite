@@ -7,3 +7,4 @@ CHanges to be done
   6) round buttons
   7) Hire me button position
   8) use relative dimensions
+  9) add a database and link it
